@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="app_platinum">#CFDBD5</color>
+    <color name="app_eerie_black">#242423</color>
+    <color name="app_jet">#333533</color>
+    <color name="app_hyundai_yellow">#F6AE2D</color>
+    <color name="app_syracus_red_orange">#D4520C</color>
+    <color name="my_light_primary">#CFDBD5</color>
+    <color name="my_dark_primary">#333533</color>
+</resources>
